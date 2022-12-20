@@ -1,3 +1,3 @@
 ## Preview
 
-![preview](nft-preview-card-component/images/preview.png)
+![preview](/nft-preview-card-component/images/preview.png)
